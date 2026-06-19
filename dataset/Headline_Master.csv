@@ -1,0 +1,61 @@
+﻿Headline_ID,Source_Name,Date,Headline_Text,Category,Engagement_Count,Source_Trust_Score,Viral_Status,Headline_Length,Impact_Score,Reach_Percentage,Reliability_Check
+H-001,TechCrunch,"February 11, 2026",xAI Lays Out Interplanetary Ambitions in Public All-Hands Meeting,Technology,556,8,Medium,65,4448,0.2224,Verify
+H-002,TechCrunch,"February 12, 2026",AI Inference Startup Modal Labs in Talks to Raise at $2.5B Valuation,Technology,202,8,Low,68,1616,0.0808,Verify
+H-003,TechCrunch,"February 13, 2026",OpenAI Disbands Mission Alignment Team Which Focused on Safe and Trustworthy AI Development,Technology,1226,8,Medium,91,9808,0.4904,Verify
+H-004,TechCrunch,"February 14, 2026",Apple's Siri Revamp Reportedly Delayed Again as Internal Timelines Slip,Technology,1103,8,Medium,71,8824,0.4412,Verify
+H-005,TechCrunch,"February 15, 2026",Uber Eats Launches AI Assistant to Help Users Build Grocery Carts Automatically,Technology,1014,8,Medium,79,8112,0.4056,Verify
+H-006,TechCrunch,"February 16, 2026",Microsoft Says Hackers Are Exploiting Critical Zero-Day Bugs to Target Windows and Office Users,Technology,671,8,Medium,95,5368,0.2684,Verify
+H-007,TechCrunch,"February 17, 2026",Amazon Acquires Satellite Operator Globalstar for $11.57 Billion to Expand Project Kuiper,Technology,519,8,Medium,89,4152,0.2076,Verify
+H-008,TechCrunch,"February 18, 2026",Blue Origin's New Glenn Rocket Successfully Reuses First-Stage Booster for First Time,Technology,2333,8,High,85,18664,0.9332,Verify
+H-009,TechCrunch,"February 19, 2026",Palantir CEO's Culture War Post Puts Company's Identity at Center of Defense Tech Debate,Technology,456,8,Low,88,3648,0.1824,Verify
+H-010,TechCrunch,"February 20, 2026",DOJ Says Trenchant Boss Sold Exploits to Russian Broker Capable of Accessing Millions of Devices,Technology,1828,8,High,96,14624,0.7312,Verify
+H-011,TechCrunch,"February 21, 2026",Why the Economics of Orbital AI Are So Brutal for Startups Chasing Space Infrastructure,Technology,230,8,Low,87,1840,0.092,Verify
+H-012,Wired,"February 22, 2026",Anthropic Introduces Claude Managed Agents for Deploying Autonomous AI in Production Environments,Technology,222,8,Low,97,1776,0.0888,Verify
+H-013,Wired,"February 23, 2026",U.S. Energy Information Administration Prepares First Mandatory National Survey on Data-Center Power Use,Technology,483,8,Low,104,3864,0.1932,Verify
+H-014,Wired,"February 24, 2026",China's Investigation into Manus AI Sale to Meta Casts Shadow Over Cross-Border Tech Dealmaking,Technology,995,8,Medium,95,7960,0.398,Verify
+H-015,Wired,"February 25, 2026",ASML Raises 2026 Outlook as Semiconductor Customers Accelerate AI Expansion Plans,Technology,1052,8,Medium,81,8416,0.4208,Verify
+H-016,Wired,"February 26, 2026",AI Systems Now Find Software Vulnerabilities Faster Than Human Security Experts Can Patch Them,Technology,2169,8,High,94,17352,0.8676,Verify
+H-017,TechCrunch,"February 27, 2026",Razer's Project AVA Evolves from Esports Coach into Full Holographic AI Desk Companion,Technology,208,8,Low,86,1664,0.0832,Verify
+H-018,TechCrunch,"February 28, 2026","Activist Groups in 24 States Protest AI Data Center Expansion Over Energy, Water, and Noise Concerns",Technology,2398,8,High,100,19184,0.9592,Verify
+H-019,Wired,"March 1, 2026",Meta Advances Consumer AR Glasses Alongside Custom Silicon Push to Reduce Dependence on Nvidia,Technology,914,8,Medium,94,7312,0.3656,Verify
+H-020,Wired,"March 2, 2026",Researchers Unveil Microbial Fuel Cell That Harvests Electricity Directly from Soil Bacteria,Technology,2332,8,High,92,18656,0.9328,Verify
+H-021,Reuters,"March 3, 2026",Samsung Forecasts Record Profit Surge as AI-Driven Chip Prices Soar Into 2026,Finance,1818,9,High,77,16362,0.7272,Trusted
+H-022,Reuters,"March 4, 2026",Gold Prices Fall as Bloomberg Commodity Index Annual Rebalancing Sparks Broad Selling Pressure,Finance,1002,9,Medium,94,9018,0.4008,Trusted
+H-023,Reuters,"March 5, 2026",Reserve Bank of India Mulls Fresh Steps to Shield Exporters Amid Escalating U.S. Tariff Pressure,Finance,1939,9,High,96,17451,0.7756,Trusted
+H-024,Reuters,"March 6, 2026",Bain Capital's Plan to Acquire Manappuram Finance Stalls as RBI Raises Regulatory Concerns,Finance,1239,9,Medium,90,11151,0.4956,Trusted
+H-025,SEC,"March 7, 2026","SEC Division of Examinations Releases 2026 Annual Priorities Covering AI, Crypto, and Private Funds",Finance,126,9,Low,99,1134,0.0504,Trusted
+H-026,SEC,"March 8, 2026",SEC Commissioner Uyeda Signals Innovation-Forward Regulatory Agenda for Investment Advisers,Finance,753,9,Medium,91,6777,0.3012,Trusted
+H-027,SEC,"March 9, 2026",SEC Commissioner Peirce Outlines New Digital Asset Framework in Landmark Policy Speech,Finance,1831,9,High,86,16479,0.7324,Trusted
+H-028,Reuters,"March 10, 2026",OpenAI Signals Retail-Friendly IPO Structure That Could Reshape How Everyday Investors Access AI Gains,Finance,1493,9,Medium,102,13437,0.5972,Trusted
+H-029,Reuters,"March 11, 2026",Amazon's AI Revenue Quietly Confirmed as a Multi-Billion Dollar Engine Inside AWS Business,Finance,1238,9,Medium,90,11142,0.4952,Trusted
+H-030,McKinsey,"March 12, 2026",Crisil Acquires McKinsey's PriceMetrix to Expand Wealth Management Analytics and Benchmarking Capabilities,Finance,736,8,Medium,106,5888,0.2944,Verify
+H-031,McKinsey,"March 13, 2026","Despite Heavy Investment, Enterprises Are Still Searching for Scalable AI-Driven Value in 2026",Finance,981,8,Medium,94,7848,0.3924,Verify
+H-032,McKinsey,"March 14, 2026",WPP Enters High-Stakes Reset as Shareholder Anger Mounts and Havas-Led Takeover Bid Emerges,Finance,1478,8,Medium,91,11824,0.5912,Verify
+H-033,Reuters,"March 15, 2026",San Francisco Private Equity Firm Pays $11.4 Million to Settle Violations Tied to Sanctioned Russian Oligarch,Finance,518,9,Medium,109,4662,0.2072,Trusted
+H-034,Reuters,"March 16, 2026",EU Bans Short-Term LNG Pipeline Contracts from April 2026 as Energy Independence Rules Take Effect,Finance,479,9,Low,98,4311,0.1916,Trusted
+H-035,McKinsey,"March 17, 2026",McKinsey Report: Companies Must Prioritize AI Governance Frameworks to Unlock Returns at Scale,Finance,1656,8,High,94,13248,0.6624,Verify
+H-036,Reuters,"March 18, 2026","Average 2026 Gold Price Forecast Cut to $4,587 Per Ounce Amid Currency and Geopolitical Uncertainty",Finance,496,9,Low,99,4464,0.1984,Trusted
+H-037,Reuters,"March 19, 2026",Freddie Mac Survey Shows 30-Year Fixed Mortgage Rate Climbs Amid Persistent Inflationary Pressure,Finance,1570,9,High,97,14130,0.628,Trusted
+H-038,SEC,"March 20, 2026",SEC 2026 Exam Priorities Spotlight Use of AI Tools Inside Investment Management and Hedge Fund Operations,Finance,1508,9,High,105,13572,0.6032,Trusted
+H-039,Reuters,"March 21, 2026",Global Gold Sector Faces Structural Scarcity in 2026 as Geological Complexity and Mining Costs Rise,Finance,1183,9,Medium,99,10647,0.4732,Trusted
+H-040,Reuters,"March 22, 2026",U.S. Open to Limited Chinese Presence in Venezuela but Draws a Hard Line at Control of Oil Infrastructure,Finance,277,9,Low,105,2493,0.1108,Trusted
+H-041,European Commission,"March 23, 2026",European Commission 2026 Work Programme Outlines Bold Actions to Build a More Sovereign and Independent Europe,Global Politics,1981,9,High,110,17829,0.7924,Trusted
+H-042,European Commission,"March 24, 2026","EU Immunization Week 2026: Three Countries Reach 90% HPV Vaccination Target, New Report Confirms",Global Politics,2296,9,High,96,20664,0.9184,Trusted
+H-043,European Commission,"March 25, 2026",Parliament and Council Reach Landmark Agreement on Major EU Customs Code Reform Targeting E-Commerce Safety,Global Politics,611,9,Medium,107,5499,0.2444,Trusted
+H-044,European Commission,"March 26, 2026",European Parliament President Metsola Meets Gulf Cooperation Council Secretary General in Brussels Summit,Global Politics,1650,9,High,105,14850,0.66,Trusted
+H-045,European Commission,"March 27, 2026",EU-UK Forum: President Metsola Addresses Summit as Post-Brexit Relations Enter New Cooperative Phase,Global Politics,422,9,Low,100,3798,0.1688,Trusted
+H-046,European Commission,"March 28, 2026",EU Marks 75 Years Since Treaty of Paris Establishing the European Coal and Steel Community,Global Politics,2361,9,High,90,21249,0.9444,Trusted
+H-047,European Commission,"March 29, 2026",European Commission's Proposed Biotech Act Aims to Fast-Track Breakthrough Therapies to Market,Global Politics,1300,9,Medium,94,11700,0.52,Trusted
+H-048,European Commission,"March 30, 2026",Commission Launches Global Health Resilience Initiative to Strengthen International Pandemic Preparedness,Global Politics,1581,9,High,105,14229,0.6324,Trusted
+H-049,European Commission,"March 31, 2026",ETS2 Frontloading Facility Approved by European Investment Bank to Support Clean Energy Transition,Global Politics,2464,9,High,98,22176,0.9856,Trusted
+H-050,European Commission,"April 1, 2026",New EU Political Advertising Transparency Rules Now Fully Effective Across All 27 Member States,Global Politics,887,9,Medium,95,7983,0.3548,Trusted
+H-051,BBC,"April 2, 2026",Iran Supreme Leader Warns Protesters as Internet Blackout and Phone Line Cuts Isolate Nation,Global Politics,384,9,Low,92,3456,0.1536,Trusted
+H-052,BBC,"April 3, 2026",US Tariff Threats Escalate Pressure on India as Bilateral Trade Negotiations Continue to Stall,Global Politics,287,9,Low,94,2583,0.1148,Trusted
+H-053,BBC,"April 4, 2026",Tesla Developing All-New Smaller and Cheaper Electric SUV to Compete in the Budget EV Segment,Global Politics,1033,9,Medium,93,9297,0.4132,Trusted
+H-054,BBC,"April 5, 2026","New York Arena Owner Used Facial Recognition to Identify and Silence Critics, Investigation Reveals",Global Politics,1285,9,Medium,99,11565,0.514,Trusted
+H-055,BBC,"April 6, 2026",EU Regulators Admit They Are Unsure How to Govern AI That Identifies Security Flaws Faster Than Humans,Global Politics,426,9,Low,102,3834,0.1704,Trusted
+H-056,BBC,"April 7, 2026",Public Trust in AI Continues Declining as Communities Push Back Against New Data Center Approvals,Global Politics,1053,9,Medium,97,9477,0.4212,Trusted
+H-057,European Commission,"April 8, 2026",Commission Presents Strategy to Secure Europe's Competitive Edge in Global Clean Energy Markets,Global Politics,513,9,Medium,95,4617,0.2052,Trusted
+H-058,BBC,"April 9, 2026","Scientists in China Engineer Bioluminescent Plants, Blurring the Boundary Between Biology and Technology",Global Politics,1656,9,High,104,14904,0.6624,Trusted
+H-059,BBC,"April 10, 2026",Telegram KYC Exploit Markets Emerge as Major Threat to Digitized Global Financial Services,Global Politics,1238,9,Medium,90,11142,0.4952,Trusted
+H-060,European Commission,"April 11, 2026",EU Bans All Short-Term LNG and Pipeline Gas Contracts as Europe Accelerates Energy Independence Drive,Global Politics,1957,9,High,101,17613,0.7828,Trusted
